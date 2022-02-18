@@ -4,8 +4,8 @@
 REACT TESTS
 </h1>
 
-> Status do Projeto: Under development :warning: => :construction::construction::construction::construction::construction:
-> :guitar: JR Dev :guitar:
+> Status do Projeto: Under development :warning: => :construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction:
+:warning:  :guitar: JR Dev :guitar:
 
 ![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
@@ -28,14 +28,14 @@ REACT TESTS
 ## Installation
 
 `In this repository, as mentioned before, there will be several projects related to Webpack, so the installation will have to be done for each folder we have in it.`
-<br /><br />
+<br />
 
 ### Example:</br>
 `/node-jest`<br />
 `/react-jest-testing-library`<br />
 <br />
 
->> Libraries from node-jest
+> Libraries from node-jest
 
 -   [Node JS](https://nodejs.org/en/) :sparkling_heart:
 -   [Jest](https://github.com/facebook/jest)
@@ -43,14 +43,12 @@ REACT TESTS
 -   [Nodemon](https://github.com/remy/nodemon)
 -   [Sequelize](https://sequelize.org/)
 -   [Dotenv](https://github.com/motdotla/dotenv)
--   [Jest](https://sequelize.org/)
 -   [Bcryptjs](https://github.com/dcodeIO/bcrypt.js)
 -   [Json Web Token](https://jwt.io/)
 
 and more...
 
 > Flows steps please:
-<br />
 <br />
 01 - Copy project to repository
 `git clone https://github.com/humbertoromanojr/all-about-tests.git`
@@ -60,11 +58,12 @@ and more...
 
 03 - Start Bundle
 `npm or yarn start`
-
+<br />
 
 ## Sources
 
-- https://www.youtube.com/watch?v=edXudaVB0Bg
+- https://jestjs.io/pt-BR/docs/getting-started
+- https://testing-library.com/docs/
 - https://www.youtube.com/watch?v=edXudaVB0Bg
 
 
@@ -73,7 +72,6 @@ and more...
 
 <br />
   
-<br />
 
 ## License
 

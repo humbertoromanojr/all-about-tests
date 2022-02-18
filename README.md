@@ -4,8 +4,8 @@
 REACT TESTS
 </h1>
 
-> Status do Projeto: Under development :warning: => :construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction:
-:warning:  :guitar: JR Dev :guitar:
+> Project Status: Under development :warning: => :construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction:
+:warning:  
 
 ![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
@@ -24,18 +24,7 @@ REACT TESTS
 - [Testing-library](https://testing-library.com/)
 
 
-
-## Installation
-
-`In this repository, as mentioned before, there will be several projects related to Webpack, so the installation will have to be done for each folder we have in it.`
-<br />
-
-### Example:</br>
-`/node-jest`<br />
-`/react-jest-testing-library`<br />
-<br />
-
-> Libraries from node-jest
+## Libraries from node-jest
 
 -   [Node JS](https://nodejs.org/en/) :sparkling_heart:
 -   [Jest](https://github.com/facebook/jest)
@@ -47,6 +36,18 @@ REACT TESTS
 -   [Json Web Token](https://jwt.io/)
 
 and more...
+
+
+
+## Installation
+
+`In this repository, as mentioned before, there will be several projects related to Webpack, so the installation will have to be done for each folder we have in it.`
+<br />
+
+### Example:</br>
+`/node-jest`<br />
+`/react-jest-testing-library`<br />
+<br />
 
 > Flows steps please:
 <br />

@@ -15,7 +15,7 @@ REACT TESTS
 ![Badge](https://img.shields.io/github/license/humbertoromanojr/all-about-tests)
 ![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fall-about-tests)
 
-## WEB
+## WEB - Common libraries to repositories
 
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 
@@ -27,7 +27,7 @@ REACT TESTS
 ## Libraries from node-jest
 
 -   [Node JS](https://nodejs.org/en/) :sparkling_heart:
--   [Jest](https://github.com/facebook/jest)
+-   [Jest - Github](https://github.com/facebook/jest)
 -   [Express](https://expressjs.com/pt-br/)
 -   [Nodemon](https://github.com/remy/nodemon)
 -   [Sequelize](https://sequelize.org/)
@@ -36,6 +36,13 @@ REACT TESTS
 -   [Json Web Token](https://jwt.io/)
 
 and more...
+
+
+## Libraries from react-jest-testing-library
+
+-   [Vite](https://vitejs.dev/) :sparkling_heart:
+
+
 
 
 

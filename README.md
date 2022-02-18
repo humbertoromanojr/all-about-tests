@@ -4,7 +4,7 @@
 REACT TESTS
 </h1>
 
-> Project Status: Under development :warning: => :construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction:
+> Project Status: Under development :warning: :construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction:
 :warning:  
 
 ![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
@@ -41,7 +41,7 @@ and more...
 ## Libraries from react-jest-testing-library
 
 -   [Vite](https://vitejs.dev/) :sparkling_heart:
-
+-   [SWC](https://github.com/swc-project/swc)
 
 
 

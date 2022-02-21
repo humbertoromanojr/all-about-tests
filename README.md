@@ -53,7 +53,7 @@ and more...
 
 ### Example:</br>
 `/node-jest`<br />
-`/react-jest-testing-library`<br />
+`/color-button`<br />
 <br />
 
 > Flows steps please:
@@ -73,6 +73,7 @@ and more...
 - https://jestjs.io/pt-BR/docs/getting-started
 - https://testing-library.com/docs/
 - https://www.youtube.com/watch?v=edXudaVB0Bg
+- https://www.udemy.com/course/react-testing-library
 
 
 

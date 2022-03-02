@@ -38,14 +38,6 @@ REACT TESTS
 and more...
 
 
-## Libraries from react-jest-testing-library
-
--   [Vite](https://vitejs.dev/) :sparkling_heart:
--   [SWC](https://github.com/swc-project/swc)
-
-
-
-
 ## Installation
 
 `In this repository, as mentioned before, there will be several projects related to Webpack, so the installation will have to be done for each folder we have in it.`
@@ -53,7 +45,7 @@ and more...
 
 ### Example:</br>
 `/node-jest`<br />
-`/react-jest-testing-library`<br />
+`/color-button`<br />
 <br />
 
 > Flows steps please:
@@ -71,6 +63,7 @@ and more...
 - https://jestjs.io/pt-BR/docs/getting-started
 - https://testing-library.com/docs/
 - https://www.youtube.com/watch?v=edXudaVB0Bg
+- https://www.udemy.com/course/react-testing-library
 
 
 

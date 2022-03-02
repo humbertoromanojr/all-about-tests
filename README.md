@@ -60,10 +60,8 @@ and more...
 <br />
 01 - Copy project to repository
 `git clone https://github.com/humbertoromanojr/all-about-tests.git`
-
 02 - Install node_modules
 `npm or yarn install`
-
 03 - Start Bundle
 `npm or yarn start`
 <br />
